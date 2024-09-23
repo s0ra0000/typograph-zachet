@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.geistSans {
+  font-family: var(--font-geist-sans), sans-serif;
+}
+
+.geistMono {
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.grafmassaItalic {
+  font-family: var(--font-grafmassa-italic), serif;
+  font-style: italic;
+}
+
+.grafmassaRegular {
+  font-family: var(--font-grafmassa-regular), serif;
+}
+
+.hooskai {
+  font-family: var(--font-hooskai), sans-serif;
+}
+
+.quantum {
+  font-family: var(--font-quantum), sans-serif;
+}
+

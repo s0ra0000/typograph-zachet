@@ -108,7 +108,7 @@ const ComponentSeven = () => {
             viewport={{ once: true }}
             variants={paragraphVariants}
           >
-            &#8220;Пока я жив, мне всё по плечу&#8222;
+            &#171;Пока я жив, мне всё по плечу&#187;
           </motion.p>
 
           {/* Animated Image */}
